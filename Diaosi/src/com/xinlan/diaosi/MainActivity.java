@@ -24,7 +24,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 
 public class MainActivity extends FragmentActivity {
-	public static final String URL = "http://we.99btgongchang.org/00/0402.html";
+	public static final String URL = "http://we.99btgongchang.org/00/0814.html";
 
 	private ProgressBar loadView;// 进度条
 	private ListView listView;// 列表栏
